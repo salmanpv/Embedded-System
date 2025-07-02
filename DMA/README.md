@@ -8,17 +8,17 @@ This project implements a simplified DMA controller in Verilog based on the bloc
 
 ## 📁 Directory Structure
 
-dma_controller_project/
-├── src/
-│ ├── dma_controller.v
-│ ├── dma_stream.v
-│ ├── dma_fifo.v
-│ ├── dma_channel_selector.v
-│ ├── dma_arbiter.v
-│ └── ahb_interface.v
-├── README.md
-└── doc/
-└── dma_block_diagram.png
+dma_controller_project/  
+├── src/  
+│ ├── dma_controller.v  
+│ ├── dma_stream.v  
+│ ├── dma_fifo.v  
+│ ├── dma_channel_selector.v  
+│ ├── dma_arbiter.v  
+│ └── ahb_interface.v  
+├── README.md  
+└── doc/  
+│ ├── dma_block_diagram.png
 
 
 ## 🔧 Features
