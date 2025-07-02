@@ -4,7 +4,8 @@ This project implements a simplified DMA controller in Verilog based on the bloc
 
 ## 📊 Block Diagram
 
-![DMA Block Diagram](doc/dma_block_diagram.png)
+![image](https://github.com/user-attachments/assets/22030acc-a2fd-4598-af2a-8fb629dc41ea)
+
 
 ## 📁 Directory Structure
 
@@ -17,8 +18,7 @@ dma_controller_project/
 │ ├── dma_arbiter.v  
 │ └── ahb_interface.v  
 ├── README.md  
-└── doc/  
-│ ├── dma_block_diagram.png
+└── testbench
 
 
 ## 🔧 Features
